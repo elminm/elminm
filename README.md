@@ -1,36 +1,85 @@
-Hi there, I'm Elmin! 👋
+<div align="center">
 
-Welcome to my GitHub profile! Here’s a little bit about me:
+# Hi, I'm Elmin 👋
 
-🚀 About Me:
+### Senior Frontend Engineer · React · TypeScript · Micro-frontends
 
-🌍 From Azerbaijan, currently working as a Front-End Developer at Kapital Bank
+<a href="https://elmin.me"><img src="https://img.shields.io/badge/elmin.me-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/elminn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/elminm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-💻 Passionate about React.js, JavaScript, and modern web technologies
+</div>
 
-🎨 Love making beautiful and user-friendly interfaces
+---
 
-📚 Always learning and exploring new tech
+### 🧩 About me
 
-🛠️ Tech Stack:
+- 🏦 Senior **Frontend Engineer** building banking & fintech products
+- ⚛️ Daily work: **React · Next.js · TypeScript**, micro-frontends with **single-spa**
+- 🌐 My own hub & playground, full-stack and self-hosted: **[elmin.me](https://elmin.me)**
+- 🌱 Going deeper into the backend: **Node.js · Strapi · PostgreSQL · Docker**
 
-Languages: JavaScript (ES6+), TypeScript
+---
 
-Frontend: React.js, Next.js, MUI, TailwindCSS
+### 🤖 I build with AI
 
-Backend: Node.js, Strapi, Express.js
+<img src="https://cdn.simpleicons.org/claude/D97757" width="42" align="left" alt="Claude" />
 
-Tools & Platforms: Vite, Webpack, DigitalOcean, Cloudflare, Git & GitHub
+AI is my daily pair-programmer. **[Claude Code](https://claude.com/claude-code)** lives in my repos — it writes and reviews code, runs migrations and deploys, and powers the automations behind [elmin.me](https://elmin.me). I design the system; the agent does the heavy lifting.
 
-✨ Fun Facts:
+<br/>
 
-☕ A coffee addict who can’t code without a cup of coffee
+<img src="https://img.shields.io/badge/Built%20with-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Built with Claude" />
+<img src="https://img.shields.io/badge/AI--assisted%20workflow-5436DA?style=for-the-badge&logo=openaigym&logoColor=white" alt="AI-assisted" />
 
-🎮 Enjoys gaming and exploring open-world games
+---
 
-🎵 Big fan of lo-fi music while coding
+### 🛠️ Tech Stack
 
-🏔️ Always up for a new adventure
+**Frontend**
 
-📫 Let’s Connect!
-Feel free to reach out or check out my repositories! 😊
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![single-spa](https://img.shields.io/badge/single--spa-4B9CD3?style=flat-square&logo=singlestore&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tooling & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=elminm&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Elmin's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elminm&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=elminm&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+**[elmin.me](https://elmin.me)** · designed by me, shipped with Claude 🤖
+
+</div>
